@@ -79,10 +79,10 @@
         <name>CentOs.formation-snapshots</name>
         <url>http://localhost:8083/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
-    <repository>
+   <!--  <repository>
         <id>central</id>
         <name>CentOs.formation-releases</name>
         <url>http://localhost:8083/artifactory/libs-release-local</url>
-    </repository>
+    </repository> -->
 </distributionManagement>
 </project>
